@@ -11,7 +11,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Android binding package for Kaopiz's android-segmented-control. For more information, follow this description: https://github.com/azchohfi/AndroidSegmentedControl.Droid/blob/master/README.md</description>
     <tags>androidsegmentedcontrol segmented control segmentedcontrol android droid xamarin</tags>
-	<iconUrl>http://i.imgur.com/e1crsbb.png</iconUrl>
+	<iconUrl>http://i.imgur.com/f8yW8wO.png</iconUrl>
   </metadata>
   <files>
   	<file src="..\AndroidSegmentedControl.Droid\bin\Release\AndroidSegmentedControl.Droid.dll" target="lib\MonoAndroid" />
