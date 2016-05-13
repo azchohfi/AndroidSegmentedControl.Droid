@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>AndroidSegmentedControl.Droid.Binding</id>
+    <version>1.1.0</version>
+    <title>AndroidSegmentedControl.Droid bindings</title>
+    <authors>azchohfi</authors>
+    <owners>Alexandre Chohfi</owners>
+    <licenseUrl>https://github.com/azchohfi/AndroidSegmentedControl.Droid/blob/master/LICENSE</licenseUrl> 
+    <projectUrl>https://github.com/azchohfi/AndroidSegmentedControl.Droid</projectUrl> 
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Android binding package for Kaopiz's android-segmented-control. For more information, follow this description: https://github.com/azchohfi/AndroidSegmentedControl.Droid/blob/master/README.md</description>
+    <tags>androidsegmentedcontrol segmented control segmentedcontrol android droid xamarin</tags>
+	<iconUrl>http://i.imgur.com/e1crsbb.png</iconUrl>
+  </metadata>
+  <files>
+  	<file src="..\AndroidSegmentedControl.Droid\bin\Release\AndroidSegmentedControl.Droid.dll" target="lib\MonoAndroid" />
+	<file src="..\AndroidSegmentedControl.Droid\bin\Release\AndroidSegmentedControl.Droid.pdb" target="lib\MonoAndroid" />
+  </files>
+</package>
